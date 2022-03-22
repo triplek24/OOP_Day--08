@@ -23,3 +23,7 @@ var hmovie = new Movie("Casino Royale", "Eon Productions", "PG13")
 
 
 console.log(hmovie.getPG(moviearr));
+
+//output:
+[ Movie { title: 'Inside Out', studio: 'Pixer', rating: 'PG' },
+  Movie { title: 'Ready Player One', studio: 'Disney', rating: 'PG' } ]
