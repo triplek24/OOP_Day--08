@@ -38,4 +38,4 @@ var circle = new Circle(5.4);
 
 
 console.log(circle.getArea());
-console.log(circle.getColor());
+console.log(circle.getColor());  //output:29.16
